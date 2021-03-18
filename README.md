@@ -1,3 +1,6 @@
-## Welcome to Math-Util repository. This repo offers multiple various math 
-methods used in your projects as the helper ones.
+## Welcome to Math-Util repository. This repo offers multiple various math methods used in your projects as the helper ones.
+
+
+### You will find in this repo: 
+
 
